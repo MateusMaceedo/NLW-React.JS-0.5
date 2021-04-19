@@ -55,7 +55,7 @@ Seu uso é totalmente opcional;
 
 As seguintes configurações podem ser acessadas no VS Code apertando `Ctrl + Shift + P` (ou `cmd +` , digitando `Preferences: Open Settings (JSON)` e entrando na opção encontrada:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79aca06f-8252-4865-a00f-d557469bb025/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79aca06f-8252-4865-a00f-d557469bb025/Untitled.png)
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F79aca06f-8252-4865-a00f-d557469bb025%2FUntitled.png?table=block&id=0112b040-1fb6-450a-bc97-40a4c3d47c62&width=1730&userId=a79ee7a5-4c57-4287-a676-083310e9d184&cache=v2" width="864" height="463">
 
 No arquivo JSON que abriu, adicione as seguintes configurações (certifique-se de adicionar dentro das chaves `{}`):
 
