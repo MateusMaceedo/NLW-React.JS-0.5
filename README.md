@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/app-preview.png?raw=true" alt="Podcastr logo">
 </div>
 
 ![Podcastr preview](.github/app-preview.png)
