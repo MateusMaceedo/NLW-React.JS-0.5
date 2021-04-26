@@ -21,6 +21,12 @@ This project was developed using cutting edge front-end technologies.
 
 ## 💻 Getting started
 
+<div align="center">
+  <br />
+  <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/screenshot-1.png?raw=true" alt="Technologies used">
+  <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/screenshot-2.png?raw=true" alt="Technologies used">
+</div>
+
 ### Requirements
 
 #### Introdução
