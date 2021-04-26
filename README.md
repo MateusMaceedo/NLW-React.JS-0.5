@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/MateusMaceedo/NLW-podcastr-5.0/852447b74878d424e67560156197b9f09b04045e/img/podcastr-logo.svg" alt="Podcastr logo">
+</div>
+
+<div align="center">
   <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/app-preview.png?raw=true" alt="Podcastr logo">
 </div>
 
