@@ -6,17 +6,14 @@
   <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/app-preview.png?raw=true" alt="Podcastr logo">
 </div>
 
-![Podcastr preview](.github/app-preview.png)
-
 ## Tecnologies
 
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src="https://github.com/MateusMaceedo/NLW-podcastr-5.0/blob/main/img/tech-logos.png?raw=true" alt="Technologies used">
 </div>
 
 This project was developed using cutting edge front-end technologies.
-
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
