@@ -30,6 +30,11 @@ This project was developed using cutting edge front-end technologies.
 ### Requirements
 
 #### Introdução
+
+<p align="justify">
+Todo o projeto foi desenvolvido ao logo da semana NLW, que tem como principal objetivo mostrar na pratica a melhor forma de desenvolver uma aplicação do zero, claro aqui tem alguma animações e algumas especializações, tentei deixar o mais proximo da minha forma de desenvolver, contanto com as principais praticas de desenvolvimento, modelagem e testes, para assim ganhar ainda mais volumetria e pratica ao decorrer de toda a semana, claro o ponta pé inicial é por grande parte da [Rocketseat](https://rocketseat.com.br), mais aqui mostro a minha versão com base em todo o conteudo gratuito disponilizado pelo mesmo.
+<p>
+  
 **Next Level Week 05**, trilha **Node.js**🚀 
 Primeiro passo para ter a aplicação rodando é necessario configurar o nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais para chegarmos nosso backend finalizado.
 
